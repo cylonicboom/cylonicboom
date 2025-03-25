@@ -10,10 +10,10 @@ I mostly make Perfect Dark mods, mostly.
 
 ## Perfect Dark PC mods:
 
-- No-Pausing
-- Moon Jump
-- Gangsta Toggle
-- Eyelid Toggle
+- No-Pausing, a challenge mod where the menus don't pause the game.
+- Moon Jump, a reimplementation of the classic gameshark code
+- Gangsta Toggle, a beta feature revival in collaboration w/ @Graslu
+- Eyelid Toggle, just for fun
 
 All of my released PC port mods are available in a combined branch: [`coup` (Catherine's Opinionated Unoffical Patches)](https://github.com/cylonicboom/perfect-dark/tree/coup)
 
