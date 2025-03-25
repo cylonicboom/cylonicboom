@@ -10,7 +10,7 @@ I mostly make Perfect Dark mods, mostly.
 
 ## Perfect Dark PC mods:
 
-- No-Pausing, a challenge mod where the menus don't pause the game.
+- No-Pausing, a challenge mod where the menus don't pause the game
 - Moon Jump, a reimplementation of the classic gameshark code
 - Gangsta Toggle, a beta feature revival in collaboration w/ @Graslu
 - Eyelid Toggle, just for fun
