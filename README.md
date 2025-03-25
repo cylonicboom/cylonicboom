@@ -6,7 +6,7 @@ I mostly make Perfect Dark mods, mostly.
 
 - I'm the maintainer of the Mouse Injector for Perfect Dark Decomp. I'll get around to porting it to the Goldeneye decomp, eventually.
 
-- I implemented XBLA-style dual-stick and 1964GEPD-style controls in the PC port
+- I implemented XBLA-style dual-stick and 1964GEPD-style keyboard controls (ie reload, alt-fire, crouch modes) in the PC port
 
 Fun fact: I'm terrible at Goldeneye.
 
