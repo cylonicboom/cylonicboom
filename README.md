@@ -4,6 +4,10 @@ I mostly make Perfect Dark mods, mostly.
 
 - I'm currently working on a 4-player co / counter-op mod of the Perfect Dark PC port: [Friends of Joanna](https://cylonicboom.itch.io/friends-of-joanna)
 
+- I'm the maintainer of the Mouse Injector for Perfect Dark Decomp. I'll get around to porting it to the Goldeneye decomp, eventually.
+
+- I implemented XBLA-style dual-stick and 1964GEPD-style controls in the PC port
+
 <!--
 **cylonicboom/cylonicboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
