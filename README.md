@@ -1,4 +1,8 @@
-## Hi there 👋
+## Catherine Reprobate ✨ 🛸 🧀
+
+I mostly make Perfect Dark mods, mostly.
+
+- I'm currently working on a 4-player co / counter-op mod of the Perfect Dark PC port: [Friends of Joanna](https://cylonicboom.itch.io/friends-of-joanna)
 
 <!--
 **cylonicboom/cylonicboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
