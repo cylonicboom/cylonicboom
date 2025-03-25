@@ -8,6 +8,15 @@ I mostly make Perfect Dark mods, mostly.
 
 - I implemented XBLA-style dual-stick and 1964GEPD-style keyboard controls (ie reload, alt-fire, crouch modes) in the PC port
 
+## Perfect Dark PC mods:
+
+- No-Pausing
+- Moon Jump
+- Gangsta Toggle
+- Eyelid Toggle
+
+All of my released PC port mods are available in a combined branch: [`coup` (Catherine's Opinionated Unoffical Patches)](https://github.com/cylonicboom/perfect-dark/tree/coup)
+
 Fun fact: I'm terrible at Goldeneye.
 
 <!--
