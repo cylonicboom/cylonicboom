@@ -8,6 +8,8 @@ I mostly make Perfect Dark mods, mostly.
 
 - I implemented XBLA-style dual-stick and 1964GEPD-style controls in the PC port
 
+Fun fact: I'm terrible at Goldeneye.
+
 <!--
 **cylonicboom/cylonicboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
